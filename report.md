@@ -85,9 +85,9 @@ The DQN agent uses the following parameters values (defined in dqn_agent.py)
 ## `4- DQN Results`
 Given the chosen architecture and parameters, our algorithm solved the problem in 479 episode for exactly 6.4mins :
 
-![Alt text](./result.png)
+![Alt text](./result_images/result.png)
 
-![Alt text](./dqn+rb.png)
+![Alt text](./result_images/dqn+rb.png)
 
 ## `5- Ideas for future work`
 A further evolution to this project would be to train the agent directly from the environment's observed raw pixels instead of using the environment's internal states (37 dimensions)
