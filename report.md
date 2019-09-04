@@ -81,9 +81,13 @@ The DQN agent uses the following parameters values (defined in dqn_agent.py)
 - UPDATE_EVERY = 4          # how often to update the network
 - eps_decay = 0.98
 - eps_end = 0.02
-## `4- DQN Results`
-Given the chosen architecture and parameters, our results are :
 
+## `4- DQN Results`
+Given the chosen architecture and parameters, our algorithm solved the problem in 479 episode for exactly 6.4mins :
+
+![Alt text](./result.png)
+
+![Alt text](./dqn+rb.png)
 
 ## `5- Ideas for future work`
 A further evolution to this project would be to train the agent directly from the environment's observed raw pixels instead of using the environment's internal states (37 dimensions)

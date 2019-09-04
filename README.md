@@ -20,7 +20,7 @@ For this project, the task is to train an agent to navigate (and collect bananas
 
 - **Reward** A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
-- **Solution criteria**  The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
+- **Solution criteria**  The task is episodic, and in order to solve the environment, the agent must get an average score of +13 in fewer than 1800 episodes.
 
 ## Getting Started
  
